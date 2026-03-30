@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <symbol id="btn-arrow" viewBox="0 0 640 640">
+        <path d="M471.1 297.4C483.6 309.9 483.6 330.2 471.1 342.7L279.1 534.7C266.6 547.2 246.3 547.2 233.8 534.7C221.3 522.2 221.3 501.9 233.8 489.4L403.2 320L233.9 150.6C221.4 138.1 221.4 117.8 233.9 105.3C246.4 92.8 266.7 92.8 279.2 105.3L471.2 297.3z"/>
+    </symbol>
+    <!-- <symbol id="a-checkmark-sheet" viewBox="0 0 20 24">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H14.4142L20 5.5858V24H0V0ZM9.9213 16.687L15.9213 9.187L13.5787 7.313L8.6256 13.5043L6.3107 11.1893L4.1893 13.3107L7.6893 16.8107L8.8744 17.9957L9.9213 16.687Z"/>
+    </symbol> -->
+    <symbol id="letter" viewBox="0 0 24 20">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H24V2.31556L12.0001 8.861L0 2.31546V0ZM0 4.59364V20H24V4.59373L12.0001 11.1391L0 4.59364Z"/>
+    </symbol>
+    <symbol id="chat" viewBox="0 0 22 23">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M1 0H0V19H4.25V22.7944L5.77605 21.8505L10.3843 19H22V0H1ZM15 8.5H6V5.5H15V8.5ZM6 13.5H13V10.5H6V13.5Z"/>
+    </symbol>
+    <symbol id="support" viewBox="0 0 22 22">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M0 10.625C0 4.75697 4.75697 0 10.625 0C16.493 0 21.25 4.75697 21.25 10.625C21.25 16.493 16.493 21.25 10.625 21.25C4.75697 21.25 0 16.493 0 10.625ZM11.4793 6.23207H9.7084V4.46123H11.4793V6.23207ZM9.7396 9.7396H7.96875V7.96875H11.5104V14.1667H13.2813V15.9375H7.96875V14.1667H9.7396V9.7396Z"/>
+    </symbol>
+</svg>
