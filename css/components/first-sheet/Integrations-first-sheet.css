@@ -1,0 +1,21 @@
+.integrations-first-sheet ._container {
+  position: relative;
+  padding: 80px 46px 0px;
+}
+.integrations-first-sheet ._container .integrations-first-sheet__title {
+  margin: 0 auto 29px;
+}
+.integrations-first-sheet ._container .integrations-first-sheet__subtitle {
+  margin: 0 0 65px;
+  width: 100%;
+  max-width: 474px;
+  line-height: 173.333333%; /* 26/15 */
+}
+.integrations-first-sheet ._container .bgimg {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  -webkit-transform: translate(0, -50%);
+          transform: translate(0, -50%);
+  z-index: -1;
+}
